@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="230" fill="none" viewBox="0 0 850 230">
+    <style>
+        .title {
+            font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif;
+            font-size: 42px;
+            font-weight: bold;
+            filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.2));
+        }
+
+        .subtitle {
+            font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif;
+            font-size: 20px;
+            font-weight: normal;
+            filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.15));
+        }
+
+        .name {
+            font-style: italic;
+        }
+
+        .language {
+            font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif;
+            font-size: 16px;
+            font-weight: normal;
+            filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.1));
+            font-style: italic;
+        }
+    </style>
+
+    <circle cx="425" cy="115" r="250" fill="#e0e0e0"/>
+    <circle cx="445" cy="115" r="250" fill="#e0e0e0"/>
+    <circle cx="435" cy="115" r="250" fill="#d4d4d4"/>
+
+    <g transform="translate(60 -862)">
+        <rect width="75" height="75" x="694" y="613" ry="4.4" style="fill:#fff;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="61" height="61" x="708" y="613" ry="3.6" style="fill:#d4d4d4;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="65" height="65" x="714" y="603" ry="3.8" style="fill:#ffbb09;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="51" height="51" x="728" y="603" ry="3" style="fill:#d99d00;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="55" height="55" x="734" y="593" ry="3.2" style="fill:#404040;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="41" height="41" x="748" y="593" ry="2.4" style="fill:#000;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <rect width="40" height="40" x="754" y="588" ry="2.4" style="fill:#fff;fill-opacity:1;stroke:none"
+              transform="rotate(45)"/>
+        <path d="m117 956 21 21-21 22z" style="fill:#f0f0f0;fill-opacity:1;stroke:none"/>
+    </g>
+
+    <text x="250" y="105" class="title" fill="#404040">
+        Hi, I’m <tspan fill="#ffbb09" class="name">Michael</tspan>
+    </text>
+    <text x="250" y="145" class="subtitle" fill="#333333">
+        Full-stack software developer
+    </text>
+    <text x="250" y="185" class="language" fill="#444444">
+        Kotlin · Java · React · TypeScript
+    </text>
+</svg>
+
