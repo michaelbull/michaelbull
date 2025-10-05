@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Skills](https://skillicons.dev/icons?i=kotlin,spring,gradle,postgresql,ts,react)](https://github.com/michaelbull)
+
 [![Banner](./banner.svg)](https://github.com/michaelbull)
 
 [![npm](./icon/npm.svg)](https://www.npmjs.com/~michaelbull) [![LinkedIn](./icon/linkedin.svg)](https://www.linkedin.com/in/michael-bull) [![last.fm](./icon/lastfm.svg)](https://www.last.fm/user/michael-bull) [![Keybase](./icon/keybase.svg)](https://keybase.io/michaelbull)<br />
@@ -13,8 +15,7 @@
 <tr>
 <td valign="top">
 
-**[kotlin-result](https://github.com/michaelbull/kotlin-result)**
-
+**[kotlin-result](https://github.com/michaelbull/kotlin-result)**<br />
 A multiplatform Result monad for modelling success or failure operations.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/kotlin-result?style=flat-square)](https://github.com/michaelbull/kotlin-result/stargazers)
@@ -23,8 +24,7 @@ A multiplatform Result monad for modelling success or failure operations.
 </td>
 <td valign="top">
 
-**[kotlin-retry](https://github.com/michaelbull/kotlin-retry)**
-
+**[kotlin-retry](https://github.com/michaelbull/kotlin-retry)**<br />
 A multiplatform higher-order function for retrying operations that may fail.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/kotlin-retry?style=flat-square)](https://github.com/michaelbull/kotlin-retry/stargazers)
@@ -33,8 +33,7 @@ A multiplatform higher-order function for retrying operations that may fail.
 </td>
 <td valign="top">
 
-**[kotlin-itertools](https://github.com/michaelbull/kotlin-itertools)**
-
+**[kotlin-itertools](https://github.com/michaelbull/kotlin-itertools)**<br />
 Multiplatform combinatoric sequences for Kotlin, inspired by python-itertools.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/kotlin-itertools?style=flat-square)](https://github.com/michaelbull/kotlin-itertools/stargazers)
@@ -46,8 +45,7 @@ Multiplatform combinatoric sequences for Kotlin, inspired by python-itertools.
 <tr>
 <td valign="top">
 
-**[kotlin-inline-logger](https://github.com/michaelbull/kotlin-inline-logger)**
-
+**[kotlin-inline-logger](https://github.com/michaelbull/kotlin-inline-logger)**<br />
 A logger facilitating lazily-evaluated log calls via Kotlin's inline classes & functions.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/kotlin-inline-logger?style=flat-square)](https://github.com/michaelbull/kotlin-inline-logger/stargazers)
@@ -56,8 +54,7 @@ A logger facilitating lazily-evaluated log calls via Kotlin's inline classes & f
 </td>
 <td valign="top">
 
-**[kotlin-coroutines-jdbc](https://github.com/michaelbull/kotlin-coroutines-jdbc)**
-
+**[kotlin-coroutines-jdbc](https://github.com/michaelbull/kotlin-coroutines-jdbc)**<br />
 A library for interacting with blocking JDBC drivers using Kotlin Coroutines.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/kotlin-coroutines-jdbc?style=flat-square)](https://github.com/michaelbull/kotlin-coroutines-jdbc/stargazers)
@@ -73,14 +70,13 @@ A library for interacting with blocking JDBC drivers using Kotlin Coroutines.
 <br />
 <br />
 
-### Frontend Libraries
+### Browser Libraries
 
 <table>
 <tr>
 <td valign="top">
 
-**[react-wheel-menu](https://github.com/michaelbull/react-wheel-menu)**
-
+**[react-wheel-menu](https://github.com/michaelbull/react-wheel-menu)**<br />
 React components & hooks for building a radial wheel menu
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/react-wheel-menu?style=flat-square)](https://github.com/michaelbull/react-wheel-menu/stargazers)
@@ -90,8 +86,7 @@ React components & hooks for building a radial wheel menu
 </td>
 <td valign="top">
 
-**[react-gsi](https://github.com/michaelbull/react-gsi)**
-
+**[react-gsi](https://github.com/michaelbull/react-gsi)**<br />
 React bindings for the 'Sign in With Google for Web' API
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/react-gsi?style=flat-square)](https://github.com/michaelbull/react-gsi/stargazers)
@@ -104,8 +99,7 @@ React bindings for the 'Sign in With Google for Web' API
 <tr>
 <td valign="top">
 
-**[zoom.ts](https://github.com/michaelbull/zoom.ts)**
-
+**[zoom.ts](https://github.com/michaelbull/zoom.ts)**<br />
 A lightweight TypeScript library for image zooming, as seen on Medium.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/zoom.ts?style=flat-square)](https://github.com/michaelbull/zoom.ts/stargazers)
@@ -115,8 +109,7 @@ A lightweight TypeScript library for image zooming, as seen on Medium.
 </td>
 <td valign="top">
 
-**[material-bottom-nav](https://github.com/michaelbull/material-bottom-nav)**
-
+**[material-bottom-nav](https://github.com/michaelbull/material-bottom-nav)**<br />
 A bottom navigation bar adhering to the Material Design specification.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/material-bottom-nav?style=flat-square)](https://github.com/michaelbull/material-bottom-nav/stargazers)
@@ -136,8 +129,7 @@ A bottom navigation bar adhering to the Material Design specification.
 <tr>
 <td valign="top">
 
-**[aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news)**
-
+**[aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news)**<br />
 A recreation of the Hacker News website written in TypeScript and built with Aurelia.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/aurelia-hacker-news?style=flat-square)](https://github.com/michaelbull/aurelia-hacker-news/stargazers)
@@ -145,8 +137,7 @@ A recreation of the Hacker News website written in TypeScript and built with Aur
 </td>
 <td valign="top">
 
-**[loona-intro-generator](https://github.com/michaelbull/loona-intro-generator)**
-
+**[loona-intro-generator](https://github.com/michaelbull/loona-intro-generator)**<br />
 Create your own animated intro sequence based on the LOONA music videos.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/loona-intro-generator?style=flat-square)](https://github.com/michaelbull/loona-intro-generator/stargazers)
@@ -154,8 +145,7 @@ Create your own animated intro sequence based on the LOONA music videos.
 </td>
 <td valign="top">
 
-**[vlc-credit-skipper](https://github.com/michaelbull/vlc-credit-skipper)**
-
+**[vlc-credit-skipper](https://github.com/michaelbull/vlc-credit-skipper)**<br />
 Automatically skip intro/outro credit sequences in VLC.
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/michaelbull/vlc-credit-skipper?style=flat-square)](https://github.com/michaelbull/vlc-credit-skipper/stargazers)
