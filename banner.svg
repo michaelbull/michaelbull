@@ -27,11 +27,11 @@
         }
     </style>
 
-    <circle cx="425" cy="115" r="250" fill="#e0e0e0"/>
-    <circle cx="445" cy="115" r="250" fill="#e0e0e0"/>
-    <circle cx="435" cy="115" r="250" fill="#d4d4d4"/>
+    <circle cx="470" cy="115" r="250" fill="#e0e0e0"/>
+    <circle cx="490" cy="115" r="250" fill="#e0e0e0"/>
+    <circle cx="480" cy="115" r="250" fill="#d4d4d4"/>
 
-    <g transform="translate(60 -862)">
+    <g transform="matrix(2.0 0 0 2.0 -10 -1839)">
         <rect width="75" height="75" x="694" y="613" ry="4.4" style="fill:#fff;fill-opacity:1;stroke:none"
               transform="rotate(45)"/>
         <rect width="61" height="61" x="708" y="613" ry="3.6" style="fill:#d4d4d4;fill-opacity:1;stroke:none"
@@ -49,14 +49,16 @@
         <path d="m117 956 21 21-21 22z" style="fill:#f0f0f0;fill-opacity:1;stroke:none"/>
     </g>
 
-    <text x="250" y="105" class="title" fill="#404040">
+    <text x="330" y="85" class="title" fill="#404040">
         Hi, I’m <tspan fill="#ffbb09" class="name">Michael</tspan>
     </text>
-    <text x="250" y="145" class="subtitle" fill="#333333">
+    <text x="330" y="125" class="subtitle" fill="#333333">
         Full-stack software developer
     </text>
-    <text x="250" y="185" class="language" fill="#444444">
-        Kotlin · Java · React · TypeScript
+    <text x="330" y="165" class="language" fill="#444444">
+        Kotlin · Java · Spring · Gradle · Docker
+    </text>
+    <text x="330" y="185" class="language" fill="#444444">
+        React · TypeScript · PostgresQL
     </text>
 </svg>
-
